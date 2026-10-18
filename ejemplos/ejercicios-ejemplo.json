@@ -1,0 +1,83 @@
+{
+  "name": "Ejemplo de ejercicios",
+  "questions": [
+    {
+      "subject": "lengua",
+      "topic": "Ortografía",
+      "level": 2,
+      "q": "¿Cuál es el plural de «lápiz»?",
+      "o": [
+        "lápices",
+        "lápizes",
+        "lápiz"
+      ],
+      "a": "lápices",
+      "e": "Las palabras acabadas en -z cambian la z por c en plural: lápiz → lápices."
+    },
+    {
+      "subject": "ingles",
+      "topic": "Vocabulary",
+      "level": 1,
+      "q": "How do you say «perro» in English?",
+      "o": [
+        "dog",
+        "cat",
+        "fish"
+      ],
+      "a": "dog",
+      "e": "«perro» se dice «dog» en inglés."
+    },
+    {
+      "subject": "medio",
+      "topic": "Los seres vivos",
+      "level": 2,
+      "q": "¿Cuántas patas tiene un insecto?",
+      "o": [
+        "4",
+        "6",
+        "8"
+      ],
+      "a": "6",
+      "e": "Los insectos tienen 6 patas; las arañas, 8."
+    },
+    {
+      "subject": "valencia",
+      "topic": "Vocabulari",
+      "level": 1,
+      "q": "¿Cómo se dice «madre» en valenciano?",
+      "o": [
+        "mare",
+        "pare",
+        "germana"
+      ],
+      "a": "mare",
+      "e": "«madre» en valenciano se dice «mare»."
+    },
+    {
+      "subject": "mates",
+      "topic": "Medidas y tiempo",
+      "level": 3,
+      "q": "¿Cuántos minutos tiene una hora y media?",
+      "o": [
+        "90",
+        "80",
+        "100"
+      ],
+      "a": "90",
+      "e": "Una hora son 60 minutos y media hora son 30: 60 + 30 = 90."
+    },
+    {
+      "subject": "lengua",
+      "topic": "Comprensión lectora: El huerto",
+      "level": 2,
+      "t": "Lucía y su abuelo salieron al huerto al amanecer. Recogieron tomates y lechugas.",
+      "q": "¿Con quién fue Lucía al huerto?",
+      "o": [
+        "con su abuelo",
+        "con su madre"
+      ],
+      "a": "con su abuelo",
+      "e": "Lo dice el texto: «Lucía y su abuelo salieron al huerto»."
+    }
+  ]
+}

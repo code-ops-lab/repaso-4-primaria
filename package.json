@@ -1,0 +1,52 @@
+{
+  "name": "repaso-4-primaria",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "deploy": "node scripts/deploy-pages.mjs"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^4.10.38",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11",
+    "vite-plugin-pwa": "0.21.1"
+  },
+  "description": "App gratuita y sin internet para repasar 4.º de Primaria: matemáticas, lengua, valenciano, inglés y conocimiento del medio, con tareas diarias, explicaciones y zona de padres.",
+  "license": "MIT",
+  "keywords": [
+    "4-primaria",
+    "cuarto-de-primaria",
+    "educacion-primaria",
+    "ejercicios-primaria",
+    "repaso-escolar",
+    "deberes",
+    "matematicas",
+    "lengua",
+    "ingles",
+    "valenciano",
+    "conocimiento-del-medio",
+    "app-educativa",
+    "juegos-educativos",
+    "pwa",
+    "offline-first",
+    "react",
+    "vite",
+    "comunitat-valenciana"
+  ],
+  "homepage": "https://code-ops-lab.github.io/repaso-4-primaria/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-ops-lab/repaso-4-primaria.git"
+  },
+  "bugs": {
+    "url": "https://github.com/code-ops-lab/repaso-4-primaria/issues"
+  }
+}

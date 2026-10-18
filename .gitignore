@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-*
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Fichas y cuadernos de terceros usados como referencia: NO se publican (tienen derechos de autor)
+material/
